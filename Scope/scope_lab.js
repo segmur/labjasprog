@@ -20,11 +20,28 @@ console.log(globalConst); // Output: "I'm a global constant"
 console.log(blockVar);
 console.log(blockLet);
 
+ //Practice task
+ {
+    let practiceLet = "Let from practice scope";
+    const practiceConst = "Const from practice scope";
+    var practiceVar = "Var from practice scope";
+
+    //practiceLet = "reLet from practice scope";
+    //practiceConst = "reConst from practice scope";
+    //practiceVar = "reVar from practice scope";
+
+   
+}
+
+console.log(practiceVar);
+console.log(practiceLet);
+console.log(practiceConst);   
+
 function show(){
     var functionVar = "I'm a block-scoped var";
     let functionLet = "I'm a block-scoped let";
     const functionConst = "I'm a block-scoped const";
-    }
+}
     show();
     
     console.log(functionVar); // Throws ReferenceError
@@ -33,3 +50,4 @@ function show(){
 
     //console.log(blockVar);
     //console.log(blockLet);
+
