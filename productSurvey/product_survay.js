@@ -26,6 +26,7 @@ function submitFeedback() {
     
 }
 submitButton.onclick = submitFeedback;
+
 document.addEventListener('keydown', function(event) {
     if (event.key === 'Enter') {
       submitFeedback();
