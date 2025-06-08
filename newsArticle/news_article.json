@@ -1,0 +1,36 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "Local Community Garden Thrives in Spring",
+      "author": "Jane Doe",
+      "date": "2025-06-07",
+      "content": "The Willow Creek community garden is buzzing with activity as spring blossoms. Volunteers have been busy planting new crops and maintaining the vibrant flower beds. This year, the garden has seen an increase in local participation, fostering stronger community bonds and providing fresh produce to residents. Events are planned throughout the summer.",
+      "tags": ["community", "garden", "local news", "sustainability"]
+    },
+    {
+      "id": 2,
+      "title": "Tech Innovations Set to Transform Smart Homes",
+      "author": "John Smith",
+      "date": "2025-06-06",
+      "content": "New advancements in AI and IoT are paving the way for truly intelligent smart homes. From predictive energy management to seamless device integration, the future of home automation looks brighter and more efficient. Experts predict a significant market growth in the next five years, with emphasis on user-friendly interfaces and enhanced security.",
+      "tags": ["technology", "smart home", "AI", "IoT"]
+    },
+    {
+      "id": 3,
+      "title": "New Study Reveals Benefits of Outdoor Exercise",
+      "author": "Emily White",
+      "date": "2025-06-05",
+      "content": "A recent study published by the National Health Institute highlights the extensive benefits of exercising outdoors. Participants reported improved mood, higher energy levels, and better sleep quality compared to indoor exercise routines. Researchers recommend at least 30 minutes of outdoor activity daily for optimal well-being, suggesting parks and natural trails.",
+      "tags": ["health", "exercise", "wellness", "research"]
+    },
+    {
+      "id": 4,
+      "title": "Global Markets React to Latest Economic Data",
+      "author": "Market Analyst",
+      "date": "2025-06-07",
+      "content": "Stock markets worldwide showed mixed reactions today following the release of new economic indicators. While some sectors saw gains, others experienced minor corrections as investors digested the inflation and employment figures. Analysts advise caution amidst ongoing geopolitical tensions.",
+      "tags": ["economy", "finance", "global news"]
+    }
+  ]
+}
